@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\UserMaintenance",
+    "\\UserMaintenance\\UserMaintenance"
   ],
+  "SelectedNode": "\\UserMaintenance\\UserMaintenance\\UserMaintenance.csproj.user",
   "PreviewInSolutionExplorer": false
 }

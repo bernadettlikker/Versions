@@ -1,0 +1,5 @@
+C:\Users\likkerb\Source\Repos\Versions\UserMaintenance\week05\obj\Debug\week05.csprojAssemblyReference.cache
+C:\Users\likkerb\Source\Repos\Versions\UserMaintenance\week05\obj\Debug\week05.Form1.resources
+C:\Users\likkerb\Source\Repos\Versions\UserMaintenance\week05\obj\Debug\week05.Properties.Resources.resources
+C:\Users\likkerb\Source\Repos\Versions\UserMaintenance\week05\obj\Debug\week05.csproj.GenerateResource.cache
+C:\Users\likkerb\Source\Repos\Versions\UserMaintenance\week05\obj\Debug\week05.csproj.CoreCompileInputs.cache

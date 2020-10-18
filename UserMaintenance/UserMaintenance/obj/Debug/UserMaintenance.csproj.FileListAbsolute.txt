@@ -1,0 +1,6 @@
+C:\Users\likkerb\Source\Repos\Versions\UserMaintenance\UserMaintenance\obj\Debug\UserMaintenance.csprojAssemblyReference.cache
+C:\Users\likkerb\Source\Repos\Versions\UserMaintenance\UserMaintenance\obj\Debug\UserMaintenance.Entities.Name-Value.resources
+C:\Users\likkerb\Source\Repos\Versions\UserMaintenance\UserMaintenance\obj\Debug\UserMaintenance.Form1.resources
+C:\Users\likkerb\Source\Repos\Versions\UserMaintenance\UserMaintenance\obj\Debug\UserMaintenance.Properties.Resources.resources
+C:\Users\likkerb\Source\Repos\Versions\UserMaintenance\UserMaintenance\obj\Debug\UserMaintenance.csproj.GenerateResource.cache
+C:\Users\likkerb\Source\Repos\Versions\UserMaintenance\UserMaintenance\obj\Debug\UserMaintenance.csproj.CoreCompileInputs.cache

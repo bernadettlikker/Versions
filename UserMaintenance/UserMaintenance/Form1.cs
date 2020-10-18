@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using UserMaintenance.Entities;
+using Excel = Microsoft.Office.Interop.Excel;
+using System.Reflection;
 
 namespace UserMaintenance
 {
@@ -32,6 +34,20 @@ namespace UserMaintenance
                 FirstName = txtFirstName.Text
             };
             users.Add(u);
+        }
+
+        RealEstateEntities context = new RealEstateEntities();
+        List<Flat> Flats;
+
+        public Form1()
+        {
+            InitializeComponent();
+            LoadData();
+        }
+
+        private void LoadData()
+        {
+            Flats = context.Flats.ToList();
         }
 
         private void Form1_Load(object sender, EventArgs e)
